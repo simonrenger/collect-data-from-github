@@ -52,3 +52,4 @@ python collect.py --token my_token config.json
 ## Roadmap
 
 - [ ] Add more criteria to filter repos on e.g. Languages
+- [ ] Add possibility to avoid archived repos if wanted
