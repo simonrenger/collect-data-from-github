@@ -1,0 +1,18 @@
+{
+    "token": "MY_TOKEN",
+    "readme_dir": "./readmes", // collect readmes?
+    "output": "./data", // data output
+    "format": "CSV", // CSV, JSON, HTML or MARKDOWN1
+    "criteria": {
+        "time": {
+            "min": 2010,
+            "max": 2022
+        }
+    },
+    "terms": [
+        // search terms
+    ],
+    "attrs": [
+        // arguments from the GitHUB rest API
+    ]
+}
