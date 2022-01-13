@@ -1,6 +1,12 @@
 # collect-data-from-github
 A little tool collection to help you collecting data from GitHub for research. This tool is based on my blog post: [Systematic review of repositories on GitHub with python (Game Dev Style)](https://simonrenger.de/posts/systematic_review_on_github/)
 
+
+
+>**Note:** This repository is inspired by the work of: *Department of Information and Computing Sciences, Utrecht University*: [A Systematic Review of Open Source Clinical Software on GitHub for Improving Software Reuse in Smart Healthcare](https://www.mdpi.com/2076-3417/9/1/150) by [**Zhengru Shen**](https://sciprofiles.com/profile/563999) and [**Marco Spruit**](https://sciprofiles.com/profile/383240). 
+
+
+
 ## Install
 
 ```
