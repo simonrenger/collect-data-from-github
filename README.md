@@ -1,5 +1,5 @@
 # collect-data-from-github
-A little tool collection to help you collecting data from GitHub for research. This tool is based on my blog post: []()
+A little tool collection to help you collecting data from GitHub for research. This tool is based on my blog post: [Systematic review of repositories on GitHub with python (Game Dev Style)](https://simonrenger.de/posts/systematic_review_on_github/)
 
 ## Install
 
